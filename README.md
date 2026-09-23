@@ -1,9 +1,11 @@
 # Hack the box - Meow
 This is my first machine
 ##Envioremnt
--Operating System: Fedora (Linux)
--VPN: Openvpn
-Tool: nmap
+- Operating System: Fedora (Linux)
+  
+- VPN: Openvpn
+  
+- Tool: nmap
 ## 1. Connecting to Hack The Box  VPN
 I connected to the Hack The Box VPN using OpenVPN
 
